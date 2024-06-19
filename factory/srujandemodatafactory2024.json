@@ -1,0 +1,9 @@
+{
+	"name": "srujandemodatafactory2024",
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "6c529868-93cb-444b-8f90-fcc616669c30",
+		"tenantId": "c6c9f1a1-a74d-4f6f-ab7b-5764444d3fe8"
+	}
+}
