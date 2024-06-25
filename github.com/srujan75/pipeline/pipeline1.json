@@ -13,7 +13,16 @@
 					"secureOutput": false,
 					"secureInput": false
 				},
-				"userProperties": [],
+				"userProperties": [
+					{
+						"name": "Source",
+						"value": "democontainerblob/Resume/"
+					},
+					{
+						"name": "Destination",
+						"value": "democontainerblob/Resume/"
+					}
+				],
 				"typeProperties": {
 					"source": {
 						"type": "BinarySource",
